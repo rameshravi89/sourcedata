@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone,city,state
+C001,John,Doe,john.doe@example.com,555-1234,New York,NY
+C002,Jane,Smith,jane.smith@example.com,555-5678,Los Angeles,CA
+C003,Emily,Johnson,emily.johnson@example.com,555-8765,Chicago,IL
+C004,Michael,Williams,michael.williams@example.com,555-4321,Houston,TX
+C005,Sarah,Brown,sarah.brown@example.com,555-6789,Miami,FL
+C006,David,Jones,david.jones@example.com,555-9876,Seattle,WA
+C007,Linda,Garcia,linda.garcia@example.com,555-1357,San Francisco,CA
+C008,Robert,Martinez,robert.martinez@example.com,555-2468,Dallas,TX
+C009,Jessica,Taylor,jessica.taylor@example.com,555-3579,Atlanta,GA
+C010,William,Anderson,william.anderson@example.com,555-4680,Boston,MA
+C011,Amy,Thomas,amy.thomas@example.com,555-5791,Portland,OR
+C012,James,Jackson,james.jackson@example.com,555-6802,Denver,CO
+C013,Charles,White,charles.white@example.com,555-7913,Phoenix,AZ
+C014,Patricia,Harris,patricia.harris@example.com,555-8024,Chicago,IL
+C015,Joseph,Clark,joseph.clark@example.com,555-9135,Las Vegas,NV
+C016,Emily,Lewis,emily.lewis@example.com,555-0246,Miami,FL
+C017,George,Young,george.young@example.com,555-1357,Orlando,FL
+C018,Olivia,Kennedy,olivia.kennedy@example.com,555-2468,San Diego,CA
+C019,William,Scott,william.scott@example.com,555-3579,Jacksonville,FL
+C020,Lauren,Adams,lauren.adams@example.com,555-4680,Sacramento,CA
